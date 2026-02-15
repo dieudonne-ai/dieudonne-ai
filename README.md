@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Dieudonné Bahati 👋
 
-<!--
-**dieudonne-ai/dieudonne-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  Aspiring Data Engineer focused on building scalable systems and impactful tech in Africa.
 
-Here are some ideas to get you started:
+Currently based in Kampala, Uganda 🇺🇬
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## About Me
+- Applied Sciences & Technology student at International University of East Africa
+-  Learning data engineering and large-scale systems
+-  Interested in performance, algorithms, and real-world problem solving
+-  Passionate about using tech to create opportunities in Africa
+
+
+## 🛠 Current Stack
+- Python (learning deeply)
+- Git & GitHub
+- Data structures & algorithms
+- System fundamentals
+- Java
+- System analysis and design
+
+
+## 2026 Goals
+- Build strong data engineering projects
+- Master Git and collaborative workflows
+- Create real-world African data projects
+- Contribute to open source
+
+
+## 📚 Current Focus
+Building my data engineering foundation step by step:
+- Git mastery
+- Python for data
+- System thinking
+- Backend development using JAVA
+
+
+## 🤝 Let's Connect
+I'm open to collaboration, learning, and impactful projects.
+
+Building. Learning. Growing.
