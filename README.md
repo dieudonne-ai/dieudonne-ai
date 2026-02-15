@@ -1,6 +1,6 @@
-# Hi, I'm Dieudonné Bahati 👋
+# I'm Dieudonné Bahati
 
-  Aspiring Data Engineer focused on building scalable systems and impactful tech in Africa.
+  Aspiring Data Engineer focused on building scalable systems and impactful tech in Africa. I'm congolese from D.R.Congo, i borned in Goma/North-Kivu.
 
 Currently based in Kampala, Uganda 🇺🇬
 
