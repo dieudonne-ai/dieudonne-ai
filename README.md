@@ -29,13 +29,13 @@ Currently based in Kampala, Uganda 🇺🇬
 - Contribute to open source
 
 
-## 📚 Current Focus
-Building my data engineering foundation step by step:
-- Git mastery
-- Python for data
-- System thinking
-- Backend development using JAVA and JavaScript
-- Building a first African PALANTIR 
+## >[!NOTE] Current Focus
+>Building my data engineering foundation step by step:
+>- Git mastery
+>- Python for data
+>- System thinking
+>- Backend development using JAVA and JavaScript
+>- Building a first African PALANTIR 
 
 
 ## 🤝 Let's Connect
