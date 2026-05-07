@@ -29,7 +29,7 @@ Currently based in Kampala, Uganda 🇺🇬
 - Contribute to open source
 
 
-> [!NOTE] ## Current Focus
+## Current Focus
 >Building my data engineering foundation step by step:
 >- Git mastery
 >- Python for data
